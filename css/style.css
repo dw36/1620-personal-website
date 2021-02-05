@@ -1,6 +1,8 @@
 *
-body {background-color:  grey;}
+body {background-color:  #5b5b5b;}
 
-  h1 {color: orange; }
-  h2 {color: whitesmoke;}
-  h3 {color: orange}
+  h1 {color: #fdea20; }
+  h2 {color: #5cf336;}
+  h3 {color: #fdea20}
+  p  {color: #fdea20}
+  ol {color: #5cf336}
