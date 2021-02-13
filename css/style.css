@@ -1,8 +1,23 @@
-*
-body {background-color:  #5b5b5b;}
 
-  h1 {color: #fdea20; }
-  h2 {color: #5cf336;}
-  h3 {color: #fdea20}
-  p  {color: #fdea20}
-  ol {color: #5cf336}
+*
+body {background-color:  #002643;
+       font-family: 'ubuntu', sans-serif;
+}
+  h1 {color: #E59500; }
+  h2 {color: #E59500;}
+  h3 {color: #E59500}
+  p  {color: #E59500}
+  ol {color: #E59500}
+  
+  
+  div {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 30px;
+    background-color: #dddddd;
+  }
+ 
+  
