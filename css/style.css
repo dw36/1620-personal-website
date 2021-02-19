@@ -9,7 +9,12 @@ body {background-color:  #002643;
   p  {color: #E59500}
   ol {color: #E59500}
   
-  
+  .nav{
+    position: fixed;  
+    top: 0px;
+    left: auto;
+    z-index: 999; 
+}
   div {
     float: left;
   }
@@ -20,4 +25,16 @@ body {background-color:  #002643;
     background-color: #dddddd;
   }
  
+  .main{
+    margin-top:30px;
+    }
   
+    img{width:350px;height:300px}
+
+    a{
+			float: left;
+			width: 130px;
+			height: 100%;
+			padding: 1px;
+			margin-right: 0%; 
+		}
